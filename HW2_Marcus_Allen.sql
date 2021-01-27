@@ -196,7 +196,7 @@ CREATE INDEX Topic_ix
 ON Topic (topic_name, topic_desc)
 ;
 
--- Data inserts for Browser_User table. Justin Allen jma5328 --
+-- Data inserts for Browser_User table. Marcus Allen jma5328 --
 
 Insert Into Browser_User 
 Values 
@@ -229,7 +229,7 @@ Values
     
 COMMIT;   
    
-   -- Data insets for content creator table. Justin Allen jma5328 --
+   -- Data insets for content creator table. Marcus Allen jma5328 --
 
 INSERT INTO contentcreator
 Values
@@ -277,7 +277,7 @@ Values
 
 COMMIT;
 
--- Data Inserts for Video table. Justin Allen jma5328.--
+-- Data Inserts for Video table. Marcus Allen jma5328.--
 
 INSERT INTO Video
 Values
@@ -301,7 +301,7 @@ Values
     
 COMMIT;
 
--- Data inserts for comments table. Justin Allen jma5328--
+-- Data inserts for comments table. Marcus Allen jma5328--
 
 INSERT INTO comments
 Values
